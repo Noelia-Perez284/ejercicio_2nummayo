@@ -1,0 +1,17 @@
+Ingresar 3 numeros.
+Asignarle una variable a cada numero.
+n1, n2, n3
+Comparar las variales para saber cual es el mayor de los 3.
+Si n1 es mayor que n2 y n1 es mayor que n3, entonces n1 es el mayor.
+Si no, si n2es mayor que n1 y mayor que n3, entonces n2 es el mayor.
+Si no, si n3 es mayor que n1 y mayor que n2, entonces n3 es el mayor
+sino, si n1 es igual a n2 y n1 es igual a n3, entonces n1, n2 y n3 son iguales. 
+
+
+Pruebas de escritorio
+
+Datos de entrada   Respuesta deseada
+8,7,1              8
+4,12,1             12
+24,32,53           53
+8,8,8              Los numeros son igualeo
